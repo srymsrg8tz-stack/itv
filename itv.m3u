@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="央视频道",CCTV1
